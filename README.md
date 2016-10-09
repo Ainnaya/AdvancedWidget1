@@ -1,4 +1,14 @@
 # AdvancedWidget1
+Nama: Ainnaya Nur Akasah
+
+Kelas: X RPL 4
+
+No Urut: 02
+
+NIS: 4653/1372.070
+
+Nama Sekolah: SMK Telkom Malang
+
 Aplikasi **AdvancedWidget1** ini dapat menampilkan hasil inputan nama anak & umur anak sesuai apa yang anda inputkan pada kolom yang tersedia.
 Cara menggunakan aplikasi AdvancedWidget1 ini yaitu:
   - Buka aplikasi AdvancedWidget1, lalu akan muncul tampilan aplikasinya.
