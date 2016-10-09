@@ -1,7 +1,7 @@
 # AdvancedWidget1
 Nama: Ainnaya Nur Akasah
 
-Kelas: X RPL 4
+Kelas: XI RPL 4
 
 No Urut: 02
 
